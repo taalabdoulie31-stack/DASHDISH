@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38595658838",
+    "project_id": "dashdish-c0189",
+    "storage_bucket": "dashdish-c0189.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38595658838:android:43b65d87456816d758e7f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmv9geHK5C03wEt-ZoTCoIIb-eAKKOpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38595658838:android:7390b3cc7dd2442c58e7f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmv9geHK5C03wEt-ZoTCoIIb-eAKKOpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
